@@ -3,13 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-👋 Hᴇʏ {} ♡
-
-I ᴀᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
-
-Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
-
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Tᴇʟʟʏʙᴏᴛs](https://telegram.me/TellyBots)
+👋 𝙷𝚢 {} 𝙸𝚊𝚖 𝚄𝚛𝚕 𝚄𝚙𝚕𝚘𝚍𝚎𝚛 𝚁𝚘𝚋𝚘𝚝 𝚅-2 
+𝙸 𝚌𝚊𝚗 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝙳𝚒𝚛𝚎𝚌𝚝 𝙻𝚒𝚗𝚔 𝚃𝚘 𝙵𝚒𝚕𝚎 
+𝙼𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚎𝚍 𝙱𝚢[𝐔𝐳𝐱_𝐁𝐨𝐭](t.me/uzx_bots) 
 """
     HELP_TEXT = """
 ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ
@@ -36,24 +32,12 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ](http://t.me/TellyUploaderRobot)
+𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-**Cʜᴀɴɴᴇʟ** : [Tᴇʟʟʏʙᴏᴛs](https://t.me/TellyBots)
-
-**Vᴇʀꜱɪᴏɴ** : [2.0 ʙᴇᴛᴀ](https://t.me/TellyUploaderRobot)
-
-**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/tellybots_digital)
-
-**Sᴇʀᴠᴇʀ** : [ʜᴇʀᴏᴋᴜ](https://heroku.com/)
-
-**Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.10.2](https://www.python.org/)
-
-**Fʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢᴀᴍ 1.3.6](https://docs.pyrogram.org/)
-
-**Dᴇᴠᴇʟᴏᴘᴇʀ :** [Tᴇʟʟʏʙᴏᴛs](https://t.me/tellybots)
-
-**ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :** [NᴀʏsᴀBᴏᴛs](https://t.me/NaysaBots)
-
+○ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : [𝐈𝐥𝐥𝐮𝐳𝕏](t.me/grayhathacker767)
+○ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : [𝐏𝐲𝐭𝐡𝐨𝐧 𝟑.𝟗.𝟏𝟎](https://www.python.org/)
+○ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝐬𝐲𝐧𝐜𝐢𝐨 𝟏.𝟒.𝟏𝟐](https://docs.pyrogram.org/)
+○ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : [𝐔𝐳𝕏_𝐁𝐨𝐭𝐬](https://t.me/UZX_BOTS)
 """
 
 
