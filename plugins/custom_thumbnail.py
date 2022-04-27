@@ -45,10 +45,11 @@ async def photo_handler(bot: Client, event: Message):
         return
     editable = await event.reply_text("**👀 Processing...**")
     await db.set_thumbnail(event.from_user.id, thumbnail=event.photo.file_id)
-    await editable.edit("**✅ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴀᴠᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ!!**")
+    await editable.edit("**✅ Custom Thumbnail saved !!**")
 
 
 @Client.on_message(filters.private & filters.command(["delthumb", "deletethumbnail"])
+)
 async def delete_thumb_handler(bot: Client, event: Message):
     if not event.from_user:
         return await event.reply_text("I don't know about you sar :(")
