@@ -21,7 +21,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5304809756:AAEiboHqT366kv40UYR_hSfQftLIo8Esww4"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -37,27 +37,27 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001734684319"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": ""
+      "value": "-1001665758041"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "Add It For M3u8 Link thumbnail and For default thumbnail to be used in the videos. Incase, yt-dlp is unable to find a thumbnail. If Not add M3u8 link Will Not Work",
-      "value": ""
+      "value": "https://placehold.it/90x90"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "681308121"
     },
     "BROADCAST_AS_COPY": {
       "description": "Value Will Be True or False",
-      "value": ""
+      "value": "False"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "atia_Url_Robot"
     }
   },
   "addons": [
